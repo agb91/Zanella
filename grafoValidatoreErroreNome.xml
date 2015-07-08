@@ -7,7 +7,7 @@
         <guasto>n</guasto>   
         <destinazione>secondo</destinazione>          
      </nodo>
-     <nodo>
+     <nodos>
         <nome>secondo</nome>
         <lettera>b</lettera>
         <osservabilita>y</osservabilita>
@@ -17,7 +17,7 @@
         <osservabilita>y</osservabilita> 
         <guasto>y</guasto>   
         <destinazione>terzo</destinazione>
-     </nodo>
+     </nodos>
      <nodo>
         <nome>terzo</nome>
         <lettera>c</lettera>

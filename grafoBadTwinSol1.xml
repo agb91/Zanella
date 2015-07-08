@@ -11,18 +11,7 @@
         <nome>secondo</nome>
         <lettera>b</lettera>
         <osservabilita>y</osservabilita>
-        <guasto>n</guasto>    
-        <destinazione>primo</destinazione>
-        <lettera>f</lettera>
-        <osservabilita>y</osservabilita> 
-        <guasto>y</guasto>   
-        <destinazione>terzo</destinazione>
-     </nodo>
-     <nodo>
-        <nome>terzo</nome>
-        <lettera>c</lettera>
-        <osservabilita>y</osservabilita>  
-        <guasto>n</guasto>  
+        <guasto>n</guasto>   
         <destinazione>primo</destinazione>
      </nodo>
 </grafo>

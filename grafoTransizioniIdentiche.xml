@@ -13,10 +13,10 @@
         <osservabilita>y</osservabilita>
         <guasto>n</guasto>    
         <destinazione>primo</destinazione>
-        <lettera>f</lettera>
+        <lettera>b</lettera>
         <osservabilita>y</osservabilita> 
-        <guasto>y</guasto>   
-        <destinazione>terzo</destinazione>
+        <guasto>n</guasto>   
+        <destinazione>primo</destinazione>
      </nodo>
      <nodo>
         <nome>terzo</nome>

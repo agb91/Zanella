@@ -4,7 +4,7 @@
         <nome>primo</nome>
         <lettera>a</lettera>
         <osservabilita>y</osservabilita>
-        <guasto>n</guasto>   
+        <guasto>n</guasto>    
         <destinazione>secondo</destinazione>          
      </nodo>
      <nodo>
@@ -13,16 +13,16 @@
         <osservabilita>y</osservabilita>
         <guasto>n</guasto>    
         <destinazione>primo</destinazione>
-        <lettera>f</lettera>
-        <osservabilita>y</osservabilita> 
-        <guasto>y</guasto>   
+        <lettera>h</lettera>
+        <osservabilita>y</osservabilita>
+        <guasto>n</guasto>    
         <destinazione>terzo</destinazione>
      </nodo>
      <nodo>
         <nome>terzo</nome>
         <lettera>c</lettera>
-        <osservabilita>y</osservabilita>  
-        <guasto>n</guasto>  
+        <osservabilita>y</osservabilita>
+        <guasto>n</guasto>    
         <destinazione>primo</destinazione>
      </nodo>
 </grafo>
